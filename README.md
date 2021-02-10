@@ -8,7 +8,7 @@
 [![Portifolio Badge](https://img.shields.io/badge/-Portfolio-green?style=flat-square&logo=Portfolio&logoColor=white&link=https://bit.ly/bragatte/)](https://bit.ly/bragatte)
  
 ## About me 💻:
-Researcher working with bioinformatics at Immunology, Virology, Genetics and Vaccinomics.
+👨‍💻Researcher working with bioinformatics at Immunology, Virology, Genetics and Vaccinomics.
 <br>
 🔬 Ph.D. student at [UFRGS](http://www.ufrgs.br/ufrgs/inicial) in [PPGBM](http://www.ufrgs.br/ppgbm/).
 <br>
