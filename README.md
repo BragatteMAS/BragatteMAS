@@ -5,7 +5,6 @@
 -->
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/bragatte)](https://www.linkedin.com/in/bragatte/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=marcelobragatte@gmail.com)](marcelobragatte@gmail.com)
 [![Portifolio Badge](https://img.shields.io/badge/-Portfolio-green?style=flat-square&logo=Portfolio&logoColor=white&link=https://bit.ly/bragatte/)](https://bit.ly/bragatte)
  
   ## About me 💻:
