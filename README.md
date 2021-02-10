@@ -7,10 +7,10 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/bragatte)](https://www.linkedin.com/in/bragatte/)
 [![Portifolio Badge](https://img.shields.io/badge/-Portfolio-green?style=flat-square&logo=Portfolio&logoColor=white&link=https://bit.ly/bragatte/)](https://bit.ly/bragatte)
  
-  ## About me 💻:
+## About me 💻:
 Researcher working with bioinformatics at Immunology, Virology, Genetics and Vaccinomics.
 <br>
-🔭 Ph.D. student at [UFRGS](http://www.ufrgs.br/ufrgs/inicial) in [PPGBM](http://www.ufrgs.br/ppgbm/).
+🔬 Ph.D. student at [UFRGS](http://www.ufrgs.br/ufrgs/inicial) in [PPGBM](http://www.ufrgs.br/ppgbm/).
 <br>
 🌱 Improving skills every day at Python, R, SQL, HTML5 & CSS3...
 <br>
@@ -39,4 +39,3 @@ Researcher working with bioinformatics at Immunology, Virology, Genetics and Vac
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=BragatteMAS&show_icons=true&theme=dracula">
 </p>
-
