@@ -38,6 +38,6 @@ Researcher working with bioinformatics at Immunology, Virology, Genetics and Vac
 <br>
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=BragatteMAS&show_icons=true&theme=Time machine">
+  <img src = "https://github-readme-stats.vercel.app/api?username=BragatteMAS&show_icons=true&theme=Tactile">
 </p>
 
