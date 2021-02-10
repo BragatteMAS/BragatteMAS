@@ -9,15 +9,15 @@
 [![Portifolio Badge](https://img.shields.io/badge/-Portfolio-green?style=flat-square&logo=Portfolio&logoColor=white&link=https://bit.ly/bragatte/)](https://bit.ly/bragatte)
  
   ## About me 💻:
-🔭 Researcher working with bioinformatics at Immunology, Virology, Genetics and Vaccinomics.
+Researcher working with bioinformatics at Immunology, Virology, Genetics and Vaccinomics.
 <br>
-Ph.D. student at [UFRGS](http://www.ufrgs.br/ufrgs/inicial) in [PPGBM](http://www.ufrgs.br/ppgbm/).
+🔭 Ph.D. student at [UFRGS](http://www.ufrgs.br/ufrgs/inicial) in [PPGBM](http://www.ufrgs.br/ppgbm/).
 <br>
 🌱 Improving skills every day at Python, R, SQL. HTML5 & CSS3...
 <br>
 
 <details open>
- <summary><b>Linguagens e Ferramentas</b>:</summary>
+ <summary><b>Languages and Tools</b>:</summary>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
@@ -38,6 +38,6 @@ Ph.D. student at [UFRGS](http://www.ufrgs.br/ufrgs/inicial) in [PPGBM](http://ww
 <br>
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=BragatteMAS&show_icons=true&theme=dracula">
+  <img src = "https://github-readme-stats.vercel.app/api?username=BragatteMAS&show_icons=true&theme=Time machine">
 </p>
 
