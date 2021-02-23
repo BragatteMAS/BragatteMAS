@@ -12,7 +12,7 @@
 <br>
 🔬 Ph.D. student at [UFRGS](http://www.ufrgs.br/ufrgs/inicial) in [PPGBM](http://www.ufrgs.br/ppgbm/).
 <br>
-🌱 Improving skills every day at Python, R, SQL, HTML5 & CSS3...
+🌱 Improving skills every day at Python, R, SQL, HTML5 & CSS3, PowerBI...
 <br>
 
 <details open>
