@@ -17,6 +17,7 @@
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=BragatteMAS" alt="BragatteMAS" /> </p>
 <details open>
+ 
  <summary><b>Languages and Tools</b>:</summary>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png"></code>
