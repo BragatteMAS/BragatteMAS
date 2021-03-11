@@ -40,7 +40,6 @@
 
 <p align = "left">
  <img src = "https://github-readme-stats.vercel.app/api?username=BragatteMAS&show_icons=true&theme=">
- <img align="right" alt="Bragatte's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BragatteMAS&theme=&show_icons=true&hide_border=true" />
+ <img align="center" alt="Bragatte's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BragatteMAS&theme=&show_icons=true&hide_border=true" />
 </p>
 <br/>
-
