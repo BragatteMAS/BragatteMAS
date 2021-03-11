@@ -34,7 +34,7 @@
 <br>
 
 <details open>
- <summary><b>Status Github:</b> </summary>
+ <summary><b>Status Github:</b> </summary>   <summary><b> GitHub GitHub Top Languages </b> </summary>  
 
 <br>
 
@@ -42,7 +42,5 @@
   <img src = "https://github-readme-stats.vercel.app/api?username=BragatteMAS&show_icons=true&theme=">
 
 <img align="right" alt="Bragatte's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BragatteMAS&theme=&show_icons=true&hide_border=true" /> </p>
-</p>
 <br/>
-<hr/>
-<h3 align=left> GitHub GitHub Top Languages </h3>
+
