@@ -41,3 +41,10 @@
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=BragatteMAS&show_icons=true&theme=">
 </p>
+<h3 align=center> GitHub GitHub Top Languages </h3>
+
+<p> <img align="center" alt="Bragatte's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BragatteMAS&theme=&show_icons=true&hide_border=true" /> </p>
+</div>
+
+<br/>
+<hr/>
