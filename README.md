@@ -43,10 +43,10 @@
 
 <br>
 
-<p align = "center">
+<p align = "right">
  <img src = "https://github-readme-stats.vercel.app/api?username=BragatteMAS&count_private=true&show_icons=true&hide_border=true&theme=react">
  
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BragatteMAS&show_icons=true&hide_border=true&layout=compact&theme=react" />
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BragatteMAS&show_icons=true&hide_border=true&theme=react" />
 
 </p>
 <br/>
