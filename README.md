@@ -46,7 +46,7 @@
 <p align = "left">
  <img src = "https://github-readme-stats.vercel.app/api?username=BragatteMAS&count_private=true&show_icons=true&theme=react">
  
- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BragatteMAS&theme=&show_icons=true&hide_border=true&&layout=compact&theme=gruvbox">
+ <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BragatteMAS&theme=&show_icons=true&hide_border=true&&layout=compact&theme=material-palenight" />
 <!-- hide_border=true&layout=compact-->
 
 </p>
