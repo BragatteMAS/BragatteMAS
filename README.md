@@ -6,9 +6,14 @@
 <!--
 **BragatteMAS/BragatteMAS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/bragatte)](https://www.linkedin.com/in/bragatte/)
 [![Portifolio Badge](https://img.shields.io/badge/-Portfolio-green?style=flat-square&logo=Portfolio&logoColor=white&link=https://bit.ly/bragatte/)](https://bit.ly/bragatte)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/bragatte)](https://www.linkedin.com/in/bragatte/)
+<a href="https://twitter.com/MarceloBragatte">
+  <img align="left" alt="@MarceloBragatte | Twitter" width="21px" src="https://raw.githubusercontent.com/
+BragatteMAS/
+BragatteMAS/master/assets/twitter.svg" />
+</a>
+
  
 ## About me 💻:
 👨‍💻Researcher working with bioinformatics at Immunology, Virology, Genetics and Vaccinomics.
