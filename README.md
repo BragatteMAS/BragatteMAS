@@ -1,5 +1,6 @@
 ## Welcome to Bragatte's GitHub 👋
-[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
+<img src="https://raw.githubusercontent.com/BragatteMAS/BragatteMAS/master/wave.gif" width="30px">
+
 
 <!--
 **BragatteMAS/BragatteMAS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
