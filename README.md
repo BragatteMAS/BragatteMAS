@@ -1,6 +1,5 @@
-## Welcome to Bragatte's GitHub 👋 <img src="https://raw.githubusercontent.com/BragatteMAS/BragatteMAS/master/wave.gif" width="30px">
-<img src="https://raw.githubusercontent.com/<BragatteMAS>/<BragatteMAS>/master/wave.gif" width="30px">
-
+## Welcome to Bragatte's GitHub 👋
+<img src="https://raw.githubusercontent.com/BragatteMAS/BragatteMAS/master/wave.gif" width="30px">
 
 
 <!--
