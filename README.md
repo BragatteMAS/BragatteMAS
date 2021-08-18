@@ -52,9 +52,8 @@ href="https://twitter.com/MarceloBragatte">
  <img src = "https://github-readme-stats.vercel.app/api?username=BragatteMAS&count_private=true&show_icons=true&hide_border=true&theme=react">
  
  <img align="rigth" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BragatteMAS&show_icons=true&hide_border=true&layout=compact&theme=react" />
-
 </p>
-<br/
+<br/>
 
 <p align="center">
   <img src="https://github.com/BragatteMAS/BragatteMAS/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
