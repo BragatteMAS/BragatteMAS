@@ -17,7 +17,9 @@ href="https://twitter.com/MarceloBragatte">
 ## About me 💻:
 👨‍💻Researcher working with bioinformatics at Immunology, Virology, Genetics and Vaccinomics.
 <br>
-🔬 Ph.D. student at [UFRGS](http://www.ufrgs.br/ufrgs/inicial) in [PPGBM](http://www.ufrgs.br/ppgbm/).
+📊 Scientific researcher at [Instituto Todos pela Saúde - ITpS](https://www.itps.org.br/)
+🎙️ Scientific disseminator at Instituto Mario Schenberg & [Rede Análise](https://redeanalise.com.br/)
+👨‍🏫 Project coordinator and instructor at [ICEPi](https://icepi.es.gov.br/)
 <br>
 🌱 Improving skills every day at Python, R, SQL, Linux distros, HTML5 & CSS3, Shell, PowerBI...
 <br>
