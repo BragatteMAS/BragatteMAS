@@ -17,7 +17,7 @@ href="https://twitter.com/MarceloBragatte">
 ## About me 💻:
 👨‍💻Researcher working with bioinformatics at Immunology, Virology, Genetics and Vaccinomics.
 <br>
-📊 Scientific researcher at [Instituto Todos pela Saúde - ITpS](https://www.itps.org.br/)
+📊 Research Scientist at [Instituto Todos pela Saúde - ITpS](https://www.itps.org.br/)
 <br>
 🎙️ Scientific disseminator at Instituto Mario Schenberg & [Rede Análise](https://redeanalise.com.br/)
 <br>
