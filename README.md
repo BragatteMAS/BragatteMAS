@@ -19,7 +19,7 @@ href="https://twitter.com/MarceloBragatte">
 <br>
 📊 Research Scientist at [Instituto Todos pela Saúde - ITpS](https://www.itps.org.br/)
 <br>
-🎙️ Scientific disseminator at Instituto Mario Schenberg & [Rede Análise](https://redeanalise.com.br/)
+🎙️ Scientific Communicato at Instituto Mario Schenberg & [Rede Análise](https://redeanalise.com.br/)
 <br>
 👨‍🏫 Project coordinator and instructor at [ICEPi](https://icepi.es.gov.br/)
 <br>
