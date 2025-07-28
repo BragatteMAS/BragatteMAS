@@ -40,10 +40,10 @@ Designed and delivered comprehensive R programming courses covering the full dat
 
 <details>
 <summary><b>🎙️ Science Communicator & Advocate</b></summary>
-<p align="left">
-<strong>Founding member of Instituto Mario Schenberg</strong><br>
-Founding member and Data Analysis Group Coordinator at [Rede Análise](https://redeanalise.com.br/)
-</p>
+
+Founding member of Instituto Mario Schenberg
+**Founding member and Data Analysis Group Coordinator at [Rede Análise](https://redeanalise.com.br/)**
+
 </details>
 
 <details>
