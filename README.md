@@ -47,21 +47,22 @@ Founding member and Data Analysis Group Coordinator at [Rede Análise](https://r
 </details>
 
 <details>
-<summary><b>🚀 Tech Evolution: R (Stats) → Python (ML) → Rust (Performance) → AI (LLMs)</b></summary>
+<summary><b>⚡ Tech Evolution: R (Stats) → Python (ML) → Rust (Performance) → AI (LLMs)</b></summary>
 <p align="left">
 <strong>From R mastery to polyglot programming</strong><br>
 Currently exploring high-performance computing for real-time epidemiological surveillance while integrating cutting-edge AI tools into traditional public health workflows
 </p>
 </details>
 
-### 🔬 Where Data Science Meets Public Health
-
-I believe in the power of data to predict, prevent, and protect. My work focuses on transforming complex health signals into actionable insights that save lives.
-
-> "In public health, every data point represents a life, every model a potential intervention, every visualization a story that needs to be told."
-> > Adapt what is useful, reject what is useless, and add what is specifically your own. 
-_Bruce Lee_
 ### 🚀 Featured Projects & 🎯 Current Focus
+
+#### 🎯 WHY I Do What I Do
+
+**Transforming data into information is my goal.**
+
+I transform complex health signals into actionable intelligence through predictive modeling, real-time surveillance, and AI-powered insights. In public health, every data point represents a life, every model a potential intervention, every visualization a story that needs to be told.
+> Adapt what is useful, reject what is useless, and add what is specifically your own.
+_Bruce Lee_
 
 <div align="center">
 
