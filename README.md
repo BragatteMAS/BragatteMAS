@@ -24,8 +24,8 @@
 <details>
 <summary><b>🏥 Research Scientist</b></summary>
 
-**Leading innovations in syndromic surveillance and health intelligence at [ITpS](https://www.itps.org.br/)**
-Real World Evidence through AI/ML applications in public health, with emphasis on text mining for syndromic surveillance and predictive modeling for respiratory and arboviral diseases
+  **Leading innovations in syndromic surveillance and health intelligence at [ITpS](https://www.itps.org.br/)**
+  * Real World Evidence through AI/ML applications in public health, with emphasis on text mining for syndromic surveillance and predictive modeling for respiratory and arboviral diseases
 
 </details>
 
@@ -33,7 +33,9 @@ Real World Evidence through AI/ML applications in public health, with emphasis o
 <summary><b>🧬 AI/ML Pioneer</b></summary>
 
 **Daily application of LLMs in health research workflows**
-Configuring and deploying AI agents and MCPs (Model Context Protocols) | Active user of Claude-code for accelerated development | Transforming how epidemiological research is conducted through AI-assisted analysis
+* Configuring and deploying AI agents and MCPs (Model Context Protocols)
+*  Active user of Claude-code for accelerated development
+*  Transforming how epidemiological research is conducted through AI-assisted analysis
 
 </details>
 
@@ -41,16 +43,17 @@ Configuring and deploying AI agents and MCPs (Model Context Protocols) | Active 
 <summary><b>📊 R Language Expert</b></summary>
 
 **Recently completed 3-year tenure as Project Coordinator of "Análise de Dados para Qualificação da Gestão em Saúde" at [ICEPi](https://icepi.es.gov.br/) (Jul 2022 - Jun 2025)**
-Designed and delivered comprehensive R programming courses covering the full data science pipeline - from ETL to Machine Learning - specifically tailored for health surveillance professionals | 500+ Professionals Trained
+
+* Designed and delivered comprehensive R programming courses covering the full data science pipeline - from ETL to Machine Learning - specifically tailored for health surveillance professionals 
+* 500+ Professionals Trained
 
 </details>
 
 <details>
 <summary><b>🎙️ Science Communicator & Advocate</b></summary>
 
-Founding member of Instituto Mario Schenberg
-
-**Founding member and Data Analysis Group Coordinator at [Rede Análise](https://redeanalise.com.br/)**
+* **Founding member and Data Analysis Group Coordinator at [Rede Análise](https://redeanalise.com.br/)**
+* Founding member of Instituto Mario Schenberg
 
 </details>
 
@@ -58,7 +61,7 @@ Founding member of Instituto Mario Schenberg
 <summary><b>⚡ Tech Evolution: R (Stats) → Python (ML) → Rust (Performance) → AI (LLMs)</b></summary>
 <p align="left">
 <strong>From R mastery to polyglot programming</strong><br>
-Currently exploring high-performance computing for real-time epidemiological surveillance while integrating cutting-edge AI tools into traditional public health workflows
+* Currently exploring high-performance computing for real-time epidemiological surveillance while integrating cutting-edge AI tools into traditional public health workflows
 </p>
 </details>
 
