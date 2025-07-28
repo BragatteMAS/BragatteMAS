@@ -63,11 +63,9 @@
 </p>
 </details>
 
-### 🚀 Featured Projects & 🎯 Current Focus
+### 🚀 Featured Projects & Current Focus
 
-#### 🎯 WHY I Do What I Do
-
-**Transforming data into information is my goal.**
+🎯 WHY I Do What I Do -> **Transforming data into information is my goal.**
 
 I transform complex health signals into actionable intelligence through predictive modeling, real-time surveillance, and AI-powered insights. In public health, every data point represents a life, every model a potential intervention, every visualization a story that needs to be told.
 > Adapt what is useful, reject what is useless, and add what is specifically your own.
