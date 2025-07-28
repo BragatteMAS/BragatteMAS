@@ -1,7 +1,11 @@
 ## Hi there, I'm Bragatte , M.A.S 👋
 <div align="center">
+
 [⚡ Quick Facts](#-quick-facts-about-me) • [🚀 Featured Projects](#-featured-projects--current-focus) • [🛠️ Tech Arsenal](#-tech-arsenal-from-data-to-insight) • [📊 GitHub Stats](#-github-stats--programming-journey) • [🤝 Let's Collaborate](#-lets-collaborate)
+
 </div>
+
+
 
 <div align="center">
 
