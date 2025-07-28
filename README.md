@@ -175,23 +175,6 @@ Developing courses for public health emergency response teams
 </table>
 </div>
 
-### 📊 GitHub Stats & Activity
-
-<details open>
-<summary><b>Performance Metrics</b></summary>
-<br>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=BragatteMAS&count_private=true&show_icons=true&hide_border=true&theme=react" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BragatteMAS&show_icons=true&hide_border=true&layout=compact&theme=react" />
-</p>
-</details>
-
-<p align="center">
-  <img src="https://github.com/BragatteMAS/BragatteMAS/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
-
----
-
 <div align="center">
   
 ### 💡 Current Focus at ITpS: Building the Future of Health Intelligence
