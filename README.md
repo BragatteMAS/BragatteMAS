@@ -85,73 +85,43 @@ Developing courses for public health emergency response teams
 
 <details open>
 <summary><b>🎨 Data Visualization & Storytelling</b></summary>
-
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/d3/d3.png" alt="D3.js"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/plotly/plotly.png" alt="Plotly"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/tidyverse/ggplot2/main/man/figures/logo.png" alt="ggplot2"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" alt="Power BI"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/SVG/shiny.svg" alt="Shiny"></code>
-<code><img height="30" src="https://quarto.org/quarto.png" alt="Quarto"></code>
-<code><img height="30" src="https://observablehq.com/@observablehq/observable-logo/2/thumbnail.png" alt="Observable"></code>
-<code><img height="30" src="https://flourish.studio/images/favicon.png" alt="Flourish"></code>
-
-**Philosophy:** Every visualization tells a story. I transform complex epidemiological data into narratives that drive public health decisions.
-
+<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="D3.js"/>
+<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/plotly/plotly-original.svg" alt="Plotly"/>
+<img height="30" src="https://raw.githubusercontent.com/tidyverse/ggplot2/main/man/figures/logo.png" alt="ggplot2"/>
+<img height="30" src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/SVG/shiny.svg" alt="Shiny"/>
+<img height="30" src="https://quarto.org/quarto.png" alt="Quarto"/>
+<img height="30" src="https://flourish.studio/blog/content/images/2023/07/flourish-logo-optimised.png" alt="Flourish"/>
+<img height="30" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" alt="Power BI"/>
 </details>
+**Philosophy:** Every visualization tells a story. I transform complex epidemiological data into narratives that drive public health decisions.
 
 <details>
 <summary><b>🧬 Scientific Computing & Analysis</b></summary>
-
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" alt="R"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" alt="Rust"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="SQL"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostgreSQL"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" alt="Bash"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" alt="Jupyter"></code>
-
+<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="Rust"/>
+<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python"/>
+<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R"/>
+<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="SQL"/>
+<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash"/>
+<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter"/>
 </details>
 
 <details>
 <summary><b>🤖 AI & Large Language Models</b></summary>
-
-<code><img height="30" src="https://www.anthropic.com/images/icons/apple-touch-icon.png" alt="Anthropic Claude"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/512px-ChatGPT_logo.svg.png" alt="OpenAI"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Google_Gemini_logo.svg/512px-Google_Gemini_logo.svg.png" alt="Google Gemini"></code>
-<code><img height="30" src="https://mistral.ai/images/logo_hubc88c4ece131b91c7cb753f40ceab4f8_2589_256x0_resize_q97_h2_lanczos_3.webp" alt="Mistral"></code>
-<code><img height="30" src="https://github.com/QwenLM/Qwen/raw/main/assets/logo.jpg" alt="Qwen"></code>
-<code><img height="30" src="https://python.langchain.com/img/favicon.ico" alt="LangChain"></code>
-<code><img height="30" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face"></code>
-
+<img height="30" src="https://www.anthropic.com/images/icons/apple-touch-icon.png" alt="Anthropic Claude"/>
+<img height="30" src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="OpenAI"/>
+<img height="30" src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Google_Gemini_logo.svg" alt="Google Gemini"/>
+<img height="30" src="https://github.com/QwenLM/Qwen/raw/main/assets/logo.jpg" alt="Qwen"/>
+<img height="30" src="https://python.langchain.com/img/favicon.ico" alt="LangChain"/>
 </details>
 
 <details>
 <summary><b>⚙️ DevOps & Infrastructure</b></summary>
-
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github/github.png" alt="GitHub"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/actions/actions.png" alt="GitHub Actions"></code>
-<code><img height="30" src="https://coolify.io/coolify-transparent.svg" alt="Coolify"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/macos/macos.png" alt="macOS"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png" alt="Windows"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="Terminal"></code>
-
-</details>
-
-<details>
-<summary><b>🌐 Modern Web Stack</b></summary>
-
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS3"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="TypeScript"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"></code>
-<code><img height="30" src="https://remix.run/favicon-192.png" alt="Remix"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nextjs/nextjs.png" alt="Next.js"></code>
-<code><img height="30" src="https://vitejs.dev/logo.svg" alt="Vite"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" alt="Flask"></code>
-
+<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git"/>
+<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub"/>
+<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker"/>
+<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux"/>
+<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="macOS"/>
+<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Windows"/>
 </details>
 
 ### 📈 Impact & Metrics
