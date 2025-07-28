@@ -16,26 +16,26 @@
 
 <details>
 <summary><b>🏥 Research Scientist</b></summary>
-<p align="left">
-<strong>Leading innovations in syndromic surveillance and health intelligence at [ITpS](https://www.itps.org.br/)</strong><br>
+
+**Leading innovations in syndromic surveillance and health intelligence at [ITpS](https://www.itps.org.br/)**
 Real World Evidence through AI/ML applications in public health, with emphasis on text mining for syndromic surveillance and predictive modeling for respiratory and arboviral diseases
-</p>
+
 </details>
 
 <details>
 <summary><b>🧬 AI/ML Pioneer</b></summary>
-<p align="left">
-<strong>Daily application of LLMs in health research workflows</strong><br>
+
+**Daily application of LLMs in health research workflows**
 Configuring and deploying AI agents and MCPs (Model Context Protocols) | Active user of Claude-code for accelerated development | Transforming how epidemiological research is conducted through AI-assisted analysis
-</p>
+
 </details>
 
 <details>
 <summary><b>📊 R Language Expert</b></summary>
-<p align="left">
-<strong>Recently completed 3-year tenure as Project Coordinator of "Análise de Dados para Qualificação da Gestão em Saúde" at [ICEPi](https://icepi.es.gov.br/) (Jul 2022 - Jun 2025)</strong><br>
+
+**Recently completed 3-year tenure as Project Coordinator of "Análise de Dados para Qualificação da Gestão em Saúde" at [ICEPi](https://icepi.es.gov.br/) (Jul 2022 - Jun 2025)**
 Designed and delivered comprehensive R programming courses covering the full data science pipeline - from ETL to Machine Learning - specifically tailored for health surveillance professionals | 500+ Professionals Trained
-</p>
+
 </details>
 
 <details>
