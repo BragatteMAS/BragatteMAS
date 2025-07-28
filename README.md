@@ -1,11 +1,8 @@
 ## Hi there, I'm Bragatte , M.A.S 👋
 <div align="center">
-
 [⚡ Quick Facts](#-quick-facts-about-me) • [🚀 Featured Projects](#-featured-projects--current-focus) • [🛠️ Tech Arsenal](#-tech-arsenal-from-data-to-insight) • [📊 GitHub Stats](#-github-stats--programming-journey) • [🤝 Let's Collaborate](#-lets-collaborate)
-
 </div>
 
----
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Transforming+Health+Data+into+Public+Policy;Syndromic+Surveillance+%26+AI+Researcher;Real+World+Evidence+Advocate)](https://git.io/typing-svg)
