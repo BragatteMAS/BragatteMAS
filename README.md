@@ -90,7 +90,6 @@ Developing courses for public health emergency response teams
 <img height="30" src="https://raw.githubusercontent.com/tidyverse/ggplot2/main/man/figures/logo.png" alt="ggplot2"/>
 <img height="30" src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/SVG/shiny.svg" alt="Shiny"/>
 <img height="30" src="https://quarto.org/quarto.png" alt="Quarto"/>
-<img height="30" src="https://flourish.studio/blog/content/images/2023/07/flourish-logo-optimised.png" alt="Flourish"/>
 <img height="30" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" alt="Power BI"/>
 </details>
 **Philosophy:** Every visualization tells a story. I transform complex epidemiological data into narratives that drive public health decisions.
