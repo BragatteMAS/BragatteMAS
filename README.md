@@ -59,11 +59,11 @@
 </details>
 
 <details>
-<summary><b>⚡ Tech Evolution: R (Stats) → Python (ML) → Rust (Performance) → AI (LLMs)</b></summary>
+<summary><b>⚡ Tech Evolution: R (Stats) → Python (ML) → Rust (Performance) → AGI (LLMs)</b></summary>
 
 **From R mastery to polyglot programming**
 - Currently exploring high-performance computing for real-time surveillance
-- Integrating cutting-edge AI tools into traditional public health workflows
+- Integrating cutting-edge AGI tools into traditional public health workflows
 - Learning and working in bioinformatics since 2014
 
 </details>
