@@ -9,7 +9,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Transforming+Health+Data+into+Public+Policy;Syndromic+Surveillance+%26+AI+Researcher;Real+World+Evidence+Advocate)](https://git.io/typing-svg)
 
-**Research Scientist at ITpS | 🧬 AI/ML in Public Health | 🚀 Building the Future of Health Intelligence**
+**Research Scientist at ITpS | 🧬 AGI/LLM in Public Health | 🚀 Building the Future of Health Intelligence**
 
 [![Linkedin Badge](https://img.shields.io/badge/-Let's%20Connect-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/bragatte)](https://www.linkedin.com/in/bragatte/)
 [![ORCID Badge](https://img.shields.io/badge/-ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white&link=https://orcid.org/0000-0001-6031-4755)](https://orcid.org/0000-0001-6031-4755)
@@ -30,11 +30,11 @@
 </details>
 
 <details>
-<summary><b>🧬 AI/ML Pioneer</b></summary>
+<summary><b>🧬 AGI/LLM Pioneer</b></summary>
 
 **Daily application of LLMs in health research workflows**
 - Configuring and deploying AI agents and MCPs (Model Context Protocols)
-- Active user of Claude-code for accelerated development
+- Active user of Claude-code (Anthropic) / Codex (OpenAI) / Gemini (Google) for accelerated development
 - Transforming epidemiological research through AI-assisted analysis
 
 </details>
